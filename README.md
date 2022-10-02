@@ -12,19 +12,20 @@
     <b>Hipotese de Benefício:</b> O Usuário tem um local centralizado para agilizar o acesso s informações de um jogo.<br>
     <b>Criterio de Aceitação:</b> Um possível jogador qualquer, ao procurar uma informações de um jogo, achara essa informação.<br>
     <b>User Story:</b> Como um jogador, eu quero acessar as informações sobre uma mecanica do jogo, para assim eu poder aprendela, melhorando minha experiencia no jogo.<br>
-    <b>Enabler Story:</b> .</p>
+    <b>Resultados:</b> Quando o jogador, procurou por informações especificas de um jogo, ele consegiu achalas e acessalas sem problemas.<br>
+  
 </ul>
 <ul>
     <p><b>Funcionalidade:</b> Disponibilizar as informações de forma intuitiva e didatica<br>
     <b>Hipotese de Benefício:</b> O Usuário tera menos trabalho para achar a informação desejada e ao acha-la podera aprendela de forma mais consiza.<br>
-    <b>Criterio de Aceitação:</b>Um possivel jogador inexperiente, ao acessar a informação desejada, a entendera de forma mais simples e consiza.<br>
-    <b>User Story:</b> Como um jogador inexperiente, eu quero acessar as informações sobre uma mecanica do jogo, para assim eu poder aprendela, melhorando minha experiencia no jogo..<br>
-    <b>Enabler Story:</b> .</p>
+    <b>Criterio de Aceitação:</b> Um possivel jogador inexperiente, ao acessar a informação desejada, a entendera de forma mais simples e consiza.<br>
+    <b>User Story:</b> Como um jogador inexperiente, eu quero acessar as informações sobre uma mecanica do jogo, para assim eu poder aprendela, melhorando minha experiencia no jogo.<br>
+    <b>Resultados:</b> Quando o jogador, acessou as informações sobre uma mecanica do jogo, ele pode entendela de forma relativavemte rapido e facil.<br>
 </ul>
 <ul>
-    <p><b>Funcionalidade:</b> Acessar informação de como funciona o sistema de combate de um jogo.<br>
-    <b>Hipotese de Benefício:</b> .<br>
-    <b>Criterio de Aceitação:</b> .<br>
-    <b>User Story:</b> .<br>
-    <b>Enabler Story:</b> .</p>
+    <p><b>Funcionalidade:</b> Possuir ferramentas que giram entorno das mecanicas aprendidas.<br>
+    <b>Hipotese de Benefício:</b> O usuário poderá aplicar seu conhecimento recem adquirido ou previo, em ferramentas para resolver os problemas que pode telos motivados a procurar informações.<br>
+    <b>Criterio de Aceitação:</b> Um possivel jogador experiente, pode acesar ferramentas que facilitem ele a usar seu conhecimento no jogo.<br>
+    <b>User Story:</b> Como um jogador experiente, eu quero acessar calculadoras e comparadoras de dano, para assim eu poder testar uma tatica nova que resolva um problema atual no jogo, melhorando minha experiencia no jogo.<br>
+    <b>Resultados:</b> Quando o jogador, acessou uma ferramenta espefica de calculo, ele pode testar as suas hipoteses previas e achou uma estrategia que tras os resultados desejados.<br>
 </ul>
