@@ -29,3 +29,15 @@
     <b>User Story:</b> Como um jogador experiente, eu quero acessar calculadoras e comparadoras de dano, para assim eu poder testar uma tatica nova que resolva um problema atual no jogo, melhorando minha experiencia no jogo.<br>
     <b>Resultados:</b> Quando o jogador, acessou uma ferramenta espefica de calculo, ele pode testar as suas hipoteses previas e achou uma estrategia que tras os resultados desejados.<br>
 </ul>
+
+<h2> Diagramas: </h2>
+
+<h3> Classe:</h3></br>
+<img src="https://drive.google.com/file/d/1450Ej9Rh7mz4tcAEnX0FdU5shSxX4bKB/view?usp=sharing" alt="Diagrama de Classe" width="500" height="600">
+
+<h3> Entidade Relacionamento</h3></br>
+<img src="https://drive.google.com/file/d/1jwhJWnb0xssp29oHcIcQjoanPas4EgjB/view?usp=sharing" alt="Diagrama Entidade Relacionamento" width="500" height="600">
+
+
+
+
