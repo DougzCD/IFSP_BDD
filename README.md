@@ -33,10 +33,10 @@
 <h2> Diagramas: </h2>
 
 <h3> Classe:</h3></br>
-<img src="https://drive.google.com/file/d/1450Ej9Rh7mz4tcAEnX0FdU5shSxX4bKB/view?usp=sharing" alt="Diagrama de Classe" width="500" height="600">
+<img src="https://drive.google.com/file/d/1450Ej9Rh7mz4tcAEnX0FdU5shSxX4bKB/view?usp=sharing" alt="Diagrama de Classe">
 
 <h3> Entidade Relacionamento</h3></br>
-<img src="https://drive.google.com/file/d/1jwhJWnb0xssp29oHcIcQjoanPas4EgjB/view?usp=sharing" alt="Diagrama Entidade Relacionamento" width="500" height="600">
+<img src="https://drive.google.com/file/d/1jwhJWnb0xssp29oHcIcQjoanPas4EgjB/view?usp=sharing" alt="Diagrama Entidade Relacionamento">
 
 
 
