@@ -36,7 +36,7 @@
 <img src="https://drive.google.com/file/d/1450Ej9Rh7mz4tcAEnX0FdU5shSxX4bKB/view?usp=sharing" alt="Diagrama de Classe">
 
 <h3> Entidade Relacionamento</h3></br>
-<img src="https://drive.google.com/file/d/1jwhJWnb0xssp29oHcIcQjoanPas4EgjB/view?usp=sharing" alt="Diagrama Entidade Relacionamento">
+<img src="https://github.com/DougzCD/Prova_BDD/blob/4760ab0c358880af898aff0fd56d9df5bde4d119/jpg/Data%20Model1!TGT_Diagram_ER_1.jpg" alt="Diagrama Entidade Relacionamento">
 
 
 
