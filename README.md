@@ -33,7 +33,7 @@
 <h2> Diagramas: </h2>
 
 <h3> Classe:</h3></br>
-<img src="https://drive.google.com/file/d/1450Ej9Rh7mz4tcAEnX0FdU5shSxX4bKB/view?usp=sharing" alt="Diagrama de Classe">
+<img src="https://github.com/DougzCD/Prova_BDD/blob/366603ef34c3ba7c183d595cedf2994ba03bea00/jpg/Model!TGT_Diagram_Class_0.jpg" alt="Diagrama de Classe">
 
 <h3> Entidade Relacionamento</h3></br>
 <img src="https://github.com/DougzCD/Prova_BDD/blob/4760ab0c358880af898aff0fd56d9df5bde4d119/jpg/Data%20Model1!TGT_Diagram_ER_1.jpg" alt="Diagrama Entidade Relacionamento">
